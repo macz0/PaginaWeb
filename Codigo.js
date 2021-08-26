@@ -6,6 +6,8 @@ const objeto = {
 }
 const aprendiendo = () => console.log("Aprendiendo JavaScript 2")
 
+
+
 aprendiendo();
 /*
 for (let i = 0; i < carro.length; i++) {
